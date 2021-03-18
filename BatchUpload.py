@@ -121,7 +121,7 @@ class Upload_GUI:
             # localhost连接本地数据库 user 用户名 password 密码 db数据库名称 charset 数据库编码格式
             # self.MySQL = pymysql.connect(host=IpAddress, user='fengbang', password='FBA2CS@2019', db='dblibrary',
             #                             charset='utf8')
-            self.MySQL = pymysql.connect(host='10.219.129.77', user='root', password='HAOxue008', db='en_library',
+            self.MySQL = pymysql.connect(host='10.xx.xx.xx', user='root', password='', db='',
                                          charset='utf8')
             Connected = True
             self.button3.config(state='normal')
