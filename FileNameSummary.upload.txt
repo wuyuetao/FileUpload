@@ -1,0 +1,2 @@
+1: 03_AUTOSAR_Tutorial sucessfully uploaded. File number: DM001020000000009
+2: Autosar & BSW configuration sucessfully uploaded. File number: DM001020000000010
